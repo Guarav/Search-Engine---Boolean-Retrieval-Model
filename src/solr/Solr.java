@@ -11,6 +11,10 @@ import java.util.Set;
 /**
  * Created by gaurav on 5/27/14.
  */
+
+/**
+ * this is the main class which handles all the requests for indexing and querying
+ */
 public class Solr {
 
     private Indexer indexerInstance;

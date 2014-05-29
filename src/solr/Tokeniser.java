@@ -6,6 +6,10 @@ import java.util.List;
 /**
  * Created by gaurav on 5/27/14.
  */
+
+/**
+ * this handles the logic of creating the tokens out of doc(string)
+ */
 public class Tokeniser {
 
 

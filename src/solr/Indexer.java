@@ -6,6 +6,10 @@ import java.util.*;
 /**
  * Created by gaurav on 5/27/14.
  */
+
+/**
+ * this stores all the indexes and are used to return docs on the basis of queries
+ */
 public class Indexer implements Serializable {
 
 //    private int
